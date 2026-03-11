@@ -14,9 +14,9 @@ This workshop explores the basics of Artificial Neural Networks (ANNs) by introd
     *   [`MLP from scratch`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/MLP_scratch.ipynb)
     *   [`MLP using Scikit-learn`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/MLP_library.ipynb)
 *   Convolutional neural networks
-    *   [`CNN from scratch`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_scratch.ipynb)
-    *   [`Transfer learning`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_translearn.ipynb)
-    *   [`Load and test a CNN`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_test.ipynb)
+    *   [`CNN from scratch using Keras`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_scratch.ipynb)
+    *   [`Transfer learning based on ResNet-50`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_translearn.ipynb)
+    *   [`Load and test a CNN model`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_test.ipynb)
     *   [`Grad-CAM visualization`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/GradCAM.ipynb)
       
 ## `Contact information`
