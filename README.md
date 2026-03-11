@@ -11,13 +11,13 @@ This workshop explores the basics of Artificial Neural Networks (ANNs) by introd
 ## `Google Colab notebooks`
 *   Artificial neural networks
     *   [`Perceptron`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/perceptron.ipynb)
-    *   [`MLP from scratch`](https://github.com/wgomezf/ANNs/tree/main/Notebooks/MLP_scratch.ipynb)
-    *   [`MLP using Scikit-learn`](https://github.com/wgomezf/ANNs/tree/main/Notebooks/MLP_library.ipynb)
+    *   [`MLP from scratch`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/MLP_scratch.ipynb)
+    *   [`MLP using Scikit-learn`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/MLP_library.ipynb)
 *   Convolutional neural networks
-    *   [`CNN from scratch`](https://github.com/wgomezf/ANNs/tree/main/Notebooks/CNN_scratch.ipynb)
-    *   [`Transfer learning`](https://github.com/wgomezf/ANNs/tree/main/Notebooks/CNN_translearn.ipynb)
-    *   [`Load and test`](https://github.com/wgomezf/ANNs/tree/main/Notebooks/CNN_test.ipynb)
-    *   [`Grad-CAM visualization`](https://github.com/wgomezf/ANNs/tree/main/Notebooks/GradCAM.ipynb)
+    *   [`CNN from scratch`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_scratch.ipynb)
+    *   [`Transfer learning`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_translearn.ipynb)
+    *   [`Load and test`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_test.ipynb)
+    *   [`Grad-CAM visualization`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/GradCAM.ipynb)
       
 ## `Contact information`
 *   `Email`: wgomez at cinvestav.mx
