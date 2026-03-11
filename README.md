@@ -10,7 +10,7 @@ This workshop explores the basics of Artificial Neural Networks (ANNs) by introd
 
 ## `Google Colab notebooks`
 *   Artificial neural networks
-    *   [`Perceptron`](https://github.com/wgomezf/ANNs/tree/main/Notebooks/perceptron)
+    *   [`Perceptron`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/perceptron.ipynb)
     *   [`MLP from scratch`](https://github.com/wgomezf/ANNs/tree/main/Notebooks/MLP_scratch.ipynb)
     *   [`MLP using Scikit-learn`](https://github.com/wgomezf/ANNs/tree/main/Notebooks/MLP_library.ipynb)
 *   Convolutional neural networks
