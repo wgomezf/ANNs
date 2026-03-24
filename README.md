@@ -15,7 +15,7 @@ This workshop explores the basics of Artificial Neural Networks (ANNs) by introd
 *   Artificial neural networks
     *   [`Perceptron`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/perceptron.ipynb)
     *   [`MLP from scratch`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/MLP_scratch.ipynb)
-    *   [`MLP using Scikit-learn`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/MLP_library.ipynb)
+    *   [`MLP using Scikit-learn`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/MLP_sklearn.ipynb)
 *   Convolutional neural networks
     *   [`CNN from scratch using Keras`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_scratch.ipynb)
     *   [`Transfer learning based on ResNet-50`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_translearn.ipynb)
