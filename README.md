@@ -9,9 +9,8 @@ This workshop explores the basics of Artificial Neural Networks (ANNs) by introd
 *   [`Practice:`](https://drive.google.com/file/d/16Qtk2f3IKabaMHm53gzMQgzl1miIZadX/view?usp=sharing) Application to breast tumor classification in ultrasound
 
 ## `Matlab codes`
-%[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=wgomezf/ANNs&file=Shape_features/get_shape_features.m)
-
-*   [`Morphological features of tumors`](https://github.com/wgomezf/ANNs/blob/main/Shape_features/shape_features.zip)
+*   Compute morphological features
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=wgomezf/ANNs&file=Shape_features/get_shape_features.m)
   
 ## `Google Colab notebooks`
 *   Artificial neural networks
