@@ -11,7 +11,7 @@ This workshop explores the basics of Artificial Neural Networks (ANNs) by introd
 ## `Matlab codes`
 *  Compute morphological features
   
-    [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=wgomezf/ANNs&file=Shape_features/get_shape_features.m)
+    [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=wgomezf/ANNs&file=Shape_features/extract_features.m&line=1)
   
 ## `Google Colab notebooks`
 *   Artificial neural networks
