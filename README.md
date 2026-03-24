@@ -21,6 +21,13 @@ This workshop explores the basics of Artificial Neural Networks (ANNs) by introd
     *   [`Transfer learning based on ResNet-50`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_translearn.ipynb)
     *   [`Load and test a CNN model`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/CNN_test.ipynb)
     *   [`Grad-CAM visualization`](https://github.com/wgomezf/ANNs/blob/main/Notebooks/GradCAM.ipynb)
+
+## `Bibliography`
+<p align="center">
+  <img src="https://github.com/wgomezf/ANNs/blob/main/Books/DIP.jpg" width="200">
+  <img src="https://github.com/wgomezf/ANNs/blob/main/Books/DL.jpg" width="200">
+  <img src="https://github.com/wgomezf/ANNs/blob/main/Books/DLpy.jpg" width="200">
+</p>
       
 ## `Contact information`
 *   `Email`: wgomez at cinvestav.mx
